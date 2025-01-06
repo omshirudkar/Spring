@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Eclipse",
+        "category": "SCULPTURE",
+        "createDate": "2025-01-02",
+        "createName": "Ava"
+    },
+    {
+        "name": "Harmonic Waves",
+        "category": "PAINTING",
+        "createDate": "2025-01-02",
+        "createName": "Lucas"
+    },
+    {
+        "name": "Ancient Guardians",
+        "category": "ARTIFACT",
+        "createDate": "2025-01-02",
+        "createName": "Evelyn"
+    },
+    {
+        "name": "Silent Reverie",
+        "category": "PAINTING",
+        "createDate": "2025-01-02",
+        "createName": "Maya"
+    },
+    {
+        "name": "Warrior Spirit",
+        "category": "SCULPTURE",
+        "createDate": "2025-01-02",
+        "createName": "Theo"
+    },
+    {
+        "name": "The Enigma",
+        "category": "ARTIFACT",
+        "createDate": "2025-01-02",
+        "createName": "Nina"
+    },
+    {
+        "name": "Celestial Journey",
+        "category": "PAINTING",
+        "createDate": "2025-01-02",
+        "createName": "Oliver"
+    },
+    {
+        "name": "Echoes of Time",
+        "category": "SCULPTURE",
+        "createDate": "2025-01-02",
+        "createName": "Zara"
+    },
+    {
+        "name": "The Altar Stone",
+        "category": "ARTIFACT",
+        "createDate": "2025-01-02",
+        "createName": "Liam"
+    },
+    {
+        "name": "Reflections of Nature",
+        "category": "PAINTING",
+        "createDate": "2025-01-02",
+        "createName": "Sophia"
+    }
+]
